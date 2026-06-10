@@ -1,11 +1,11 @@
-# Mustafa Emir Okay
+# Mustafa Emir Okay 
 ## Data Science Student
 
-**Master's in Advanced Analytics & Big Data** @ SGH Warsaw School of Economics · **Computer Engineering** background
+**Master's in Advanced Analytics & Big Data** at SGH Warsaw School of Economics with **Computer Engineering** background
 
 ## About Me
 
-I build end-to-end machine learning projects — from data extraction and feature engineering to model tuning, cross-validation, and evaluation. Currently looking for a **Data Science internship** in Warsaw.
+I build end-to-end machine learning projects — from data extraction and feature engineering to model tuning, cross-validation, and evaluation.
 
 ## Featured Projects
 
